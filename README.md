@@ -2,7 +2,7 @@
 
 ## Installation
 
-I have uploaded `.env`. You do not need to create a environemnt file.
+I have uploaded `.env`. You do not need to create a enviroment file.
 
 ```bash
 git clone https://github.com/AuroPick/kaizen-case.git
