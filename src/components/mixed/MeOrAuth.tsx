@@ -45,8 +45,6 @@ const MeOrAuthComponent: React.FC = () => {
       <View style={styles.onlineStatus} />
     </>
   )
-
-  return <View />
 }
 
 export const MeOrAuth = memo(MeOrAuthComponent)
